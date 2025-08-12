@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Jinning 👋
 
-<!--
-**JinningL/JinningL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Electrical Engineering @ U of T (2T8 + Co-op)**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Skills
+
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Zephyr RTOS](https://img.shields.io/badge/Zephyr-4B32C3?logo=zephyr&logoColor=white&style=for-the-badge)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FFB64A?logo=autodesk&logoColor=white&style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+
+---
+
+📫 **Reach me for collaborations or opportunities**  
+[Email](mailto:imjinning.liu@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/jinning-liu)
