@@ -15,5 +15,5 @@
 
 ---
 
-📫 **Reach me for collaborations or opportunities**  
+📫 **Always happy to connect**  
 [Email](mailto:imjinning.liu@mail.utoronto.ca) · [LinkedIn](https://www.linkedin.com/in/jinning-liu)
