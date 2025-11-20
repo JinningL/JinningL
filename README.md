@@ -1,6 +1,6 @@
 # Hi, I'm Jinning 👋
 
-🎓 **Electrical Engineering @ U of T (2T8 + Co-op)**
+🎓 **Electrical Engineering @ UofT (2T8 + Co-op)**
 
 ---
 
