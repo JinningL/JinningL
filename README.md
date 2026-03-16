@@ -6,13 +6,39 @@
 
 ## 🛠 Technical Skills
 
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Zephyr RTOS](https://img.shields.io/badge/Zephyr-4B32C3?logo=zephyr&logoColor=white&style=for-the-badge)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FFB64A?logo=autodesk&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge)
+### Programming
+![C](https://img.shields.io/badge/C-blue?logo=c)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3)
 
+### Embedded Systems
+![STM32](https://img.shields.io/badge/STM32-blue)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red?logo=raspberrypi)
+![Arduino](https://img.shields.io/badge/Arduino-green?logo=arduino)
+![Zephyr](https://img.shields.io/badge/Zephyr-purple)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?logo=ros&logoColor=white)
+
+UART • I2C • Interrupts • Timers • Memory-Mapped I/O
+
+### Digital & Hardware Design
+![Verilog](https://img.shields.io/badge/Verilog-orange)
+![FPGA](https://img.shields.io/badge/FPGA-DE1--SoC-blue)
+![ASIC](https://img.shields.io/badge/ASIC%20Design%20Flow-gray)
+
+### Measurement & Debugging
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope-darkgreen)
+![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-darkgreen)
+![LTSpice](https://img.shields.io/badge/LTSpice-red)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-red?logo=git)
+![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
+![Quartus](https://img.shields.io/badge/Quartus-blue)
+![ModelSim](https://img.shields.io/badge/ModelSim-gray)
 ---
 
 📫 **Always happy to connect**  
