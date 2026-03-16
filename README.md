@@ -9,6 +9,7 @@
 ### Programming
 ![C](https://img.shields.io/badge/C-blue?logo=c)
 ![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B)
+![RISC-V](https://img.shields.io/badge/RISC--V-Assembly-red)
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML-orange?logo=html5)
@@ -36,6 +37,7 @@ UART • I2C • Interrupts • Timers • Memory-Mapped I/O
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-red?logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![VSCode](https://img.shields.io/badge/VSCode-blue?logo=visualstudiocode)
 ![Quartus](https://img.shields.io/badge/Quartus-blue)
 ![ModelSim](https://img.shields.io/badge/ModelSim-gray)
