@@ -1,5 +1,7 @@
 # Hi, I'm Jinning 👋
 
+🌐 **Portfolio:** [https://jinningl.github.io/portfolio/](https://jinningl.github.io/portfolio/)
+
 🎓 **Electrical Engineering @ UofT (2T8 + Co-op)**
 
 ---
